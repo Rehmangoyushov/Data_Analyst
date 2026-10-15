@@ -7,7 +7,7 @@ This project is an interactive, multi-page *Power BI* dashboard designed to anal
 * *Total Gross Sales:* 433bn
 * *Total Net Sales:* 48bn
 * *Total Cost:* 36bn
-* *Sum of Profit:* 665bn
+* *Sum of Profit:* 12bn
 
 ---
 
